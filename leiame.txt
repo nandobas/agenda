@@ -1,0 +1,16 @@
+
+Para configurar o local dos arquivos no servidor, 
+acesse o arquivo: /inc/config.php
+
+$ROOT_PATH: Localização dos arquivos na raiz do servidor;
+
+Para configurar a conexão com a base de dados, altere o arquivo: /model/database.conf.php
+
+O arquivo contendo a criação das tabelas em mysql, esta contido na pasta: /src
+
+O login adminstrativo:
+
+usuário: admin
+senha: admin
+
+Atenciosamente: Fernando Basilio. 
